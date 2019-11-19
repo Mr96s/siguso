@@ -136,7 +136,7 @@
       style: basic
       url: https://www.tianyancha.com/
 
-   - name: 社交
+  - name: 社交
     links:
     - name: 微博
       icon: weibo red
