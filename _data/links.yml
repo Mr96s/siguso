@@ -73,7 +73,7 @@
       
   - name: 工具
     links:
-    - name
+    - name:
       icon: google red
       style: basic
       url: http://siguso.com/google
