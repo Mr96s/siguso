@@ -270,9 +270,9 @@
     style: black
     show: false
 
-- id: fkdy
+- id: cupfox
   name: 影视
-  url: http://ifkdy.com/?q={query}
+  url: https://www.cupfox.com/?type=video&key={query}
   shortcut:
     icon: film orange inverted
     style: black
@@ -310,21 +310,5 @@
   url: https://onejav.com/search/{query}
   shortcut:
     icon: film pink inverted
-    style: black
-    show: false
-
-- id: byr
-  name: 北邮人论坛
-  url: http://search.icybee.cn/bbs/?key={query}
-  shortcut:
-    icon: comments blue inverted
-    style: black
-    show: false
-
-- id: byrbt
-  name: 北邮人BT
-  url: https://bt.byr.cn/torrents.php?search={query}
-  shortcut:
-    icon: cloud download alternate teal inverted
     style: black
     show: false
