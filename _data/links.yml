@@ -55,9 +55,9 @@
       style: basic
       url: https://zaozuo.com/
 
-    - name: 锤子
-      style: basic
-      url: http://www.smartisan.com/
+    - name: 一加
+      style: red
+      url: https://www.oneplus.com/
 
     - name: 大疆
       style: black
@@ -70,9 +70,14 @@
     - name: 有品
       style: brown
       url: https://xiaomiyoupin.com/
-
+      
   - name: 工具
     links:
+    - name
+      icon: google red
+      style: basic
+      url: http://siguso.com/google
+    
     - name: '12306'
       icon: train red
       style: basic
