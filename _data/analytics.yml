@@ -1,9 +1,9 @@
 google:
-  id: UA-100531691-1
+  id: UA-131725699-4
 
 matomo:
-  url: https://vps.irockbunny.com/analytics/
+  url: https://matomo.siguso.com/
   domains:
-  - "*.byr-navi.com"
+  - "*.siguso.com"
   site_id: 1
-  token: a9961b3cb71063df373e0ff26c1b23fe
+  token: 5066184aa49d21520cbfc60dda7db38f
